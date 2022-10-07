@@ -1,0 +1,5 @@
+.idea
+*.o
+*.out
+*.class
+**/output.txt
