@@ -1,0 +1,8 @@
+a = 1
+b = 2
+c = a + b
+t1 = tfork
+t1 == 0 ? x = 1 : sleep 5
+c = c + c
+c = c + a
+c = c + b
